@@ -1,2 +1,2 @@
 # MathOncini
-Math learning game for kids in Wolfram Mathematica
+Learning game for kids in Wolfram Mathematica
